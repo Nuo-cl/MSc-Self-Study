@@ -21,7 +21,7 @@
 
 <div align="center">
     <img src="image/1.jpg" alt="table1" width="500">
-<div>
+<div\>
 
 ### 3.1 输入
 
