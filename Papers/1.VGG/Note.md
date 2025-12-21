@@ -1,5 +1,5 @@
 # VGG
-[代码实现](./VGG16_torch_impl/vgg16.ipynb)
+[代码学习](./VGG16_torch_impl/vgg16.ipynb)
 
 ## 1. 研究背景
 

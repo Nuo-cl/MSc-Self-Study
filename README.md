@@ -8,18 +8,13 @@
 
 ## 📚 论文学习列表
 
-| 序号 | 论文标题                                                                                 | 状态      | 笔记                        |
-| ---- | ---------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| 1    | [VGG - Very Deep Convolutional Networks for Large-Scale Image Recognition](./Papers/1.VGG/Very_Deep_Convolutional_Networks_for_Large_Scale_Image_Recognition.pdf) | 📖 学习中 | [笔记](./Papers/1.VGG/Note.md) |
-| 2    | [GoogleNet - Going Deeper with Convolutions](./Papers/2.Google%20Net/Going_Deeper_with_Convolutions.pdf) | 📖 学习中 | [笔记](./Papers/2.Google%20Net/Note.md) |
+| 序号 | 论文标题                                                                                 | 笔记                        |
+| ---- | ---------------------------------------------------------------------------------------- | --------------------------- |
+| 1    | [VGG - Very Deep Convolutional Networks for Large-Scale Image Recognition](./Papers/1.VGG/Very_Deep_Convolutional_Networks_for_Large_Scale_Image_Recognition.pdf) | [笔记](./Papers/1.VGG/Note.md) |
+| 2    | [GoogleNet - Going Deeper with Convolutions](./Papers/2.Google%20Net/Going_Deeper_with_Convolutions.pdf) | [笔记](./Papers/2.Google%20Net/Note.md) |
+| 3    | [ResNet - Deep Residual Learning for Image Recognition](./Papers/3.ResNet/Deep_Residual_Learning_for_Image_Recognition.pdf) | [笔记](./Papers/3.ResNet/Note.md) |
 
-## 📝 [最新周报](./Progress/1.20251027-20251109.md)
 
-## 📅 进度汇报归档
-
-| 周期               | 汇报文档                                       | 主要内容              |
-| ------------------ | ---------------------------------------------- | --------------------- |
-| 2025.10.27 - 11.09 | [第1、2周汇报](./Progress/1.20251027-20251109.md) | VGG论文学习、GoogleNet论文学习|
 
 ## 🗂️ 仓库结构
 

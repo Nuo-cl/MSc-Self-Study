@@ -1,5 +1,7 @@
 # GoogleNet 学习笔记
 
+[代码学习](./inception_impl/inception.ipynb)
+
 ## 1. 研究背景与动机
 
 ### 研究背景
